@@ -1,0 +1,8 @@
+// Problem: If Statement
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/viewsolution/1350744285
+// Solved on: 2026-08-31T18:49:43.238Z
+
+// source not captured automatically - open the solution page and copy it manually
