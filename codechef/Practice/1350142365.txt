@@ -1,0 +1,8 @@
+// Problem: Converting input datatype
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/viewsolution/1350142365
+// Solved on: 2026-08-31T18:49:55.558Z
+
+// source not captured automatically - open the solution page and copy it manually
