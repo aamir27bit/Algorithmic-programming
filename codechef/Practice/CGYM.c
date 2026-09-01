@@ -3,7 +3,7 @@
 // Language: C​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CGYM
-// Solved on: 2026-09-01T18:09:52.804Z
+// Solved on: 2026-09-01T18:13:40.787Z
 
 #include <stdio.h>
 
@@ -15,7 +15,7 @@ int main() {
      int x,y,z;
      scanf("%d %d %d",&x ,&y ,&z);
         
-        if(x-z>=0) {
+        if(x-z>0) {
         printf("0\n"); }
         
     else if ( (x+y)<=z ) {
