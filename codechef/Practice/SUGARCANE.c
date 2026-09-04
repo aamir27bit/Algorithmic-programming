@@ -3,7 +3,7 @@
 // Language: C​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SUGARCANE
-// Solved on: 2026-09-04T07:39:52.008Z
+// Solved on: 2026-09-04T07:42:48.268Z
 
 #include <stdio.h>
 
@@ -17,8 +17,7 @@ int main() {
         int x, z;
         scanf("%d", &x);
 
-        z = x * 50;
-        z = z - (70 * z) / 100;
+        z = x * 15;
 
         printf("%d\n", z);
     }
