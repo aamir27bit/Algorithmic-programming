@@ -3,7 +3,7 @@
 // Language: C​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFSCORE
-// Solved on: 2026-09-10T17:47:56.601Z
+// Solved on: 2026-09-10T17:48:01.276Z
 
 #include <stdio.h>
 
