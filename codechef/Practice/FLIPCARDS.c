@@ -3,7 +3,7 @@
 // Language: C​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLIPCARDS
-// Solved on: 2026-09-13T17:16:32.276Z
+// Solved on: 2026-09-13T17:23:40.708Z
 
 #include <stdio.h>
 
@@ -17,11 +17,11 @@ int main() {
         
         scanf("%d %d", &x, &y);
 
-        if (x>0 && y>0 && x-y>0) 
+        if (y < x - y) 
         printf("%d\n", y);
         
-        else
-        printf("0\n");
+        else 
+        printf("%d\n", x - y);
         
     }
 
