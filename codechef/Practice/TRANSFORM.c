@@ -3,7 +3,7 @@
 // Language: C​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRANSFORM
-// Solved on: 2026-09-14T09:13:07.645Z
+// Solved on: 2026-09-14T20:26:57.662Z
 
 #include <stdio.h>
 
