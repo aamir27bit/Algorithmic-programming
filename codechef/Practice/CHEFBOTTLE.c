@@ -3,7 +3,7 @@
 // Language: C​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFBOTTLE
-// Solved on: 2026-09-17T18:07:58.242Z
+// Solved on: 2026-09-18T15:54:48.472Z
 
 #include <stdio.h>
 
