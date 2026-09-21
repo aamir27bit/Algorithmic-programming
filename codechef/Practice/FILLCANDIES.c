@@ -3,7 +3,7 @@
 // Language: C​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FILLCANDIES
-// Solved on: 2026-09-20T13:58:55.425Z
+// Solved on: 2026-09-21T17:11:05.418Z
 
 #include <stdio.h>
 
