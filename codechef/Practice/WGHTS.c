@@ -3,7 +3,7 @@
 // Language: C​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WGHTS
-// Solved on: 2026-09-22T18:13:04.934Z
+// Solved on: 2026-09-22T18:14:22.851Z
 
 #include <stdio.h>
 
@@ -18,7 +18,7 @@ int main() {
         scanf("%d %d %d %d", &w, &x, &y, &z);
 
         if (x == w || y == w || z == w ||
-            x + y == w || x + z == w || y + z == w)
+            x + y == w || x + z == w || y + z == w || x + y + z == w)
         printf("YES\n");
         
         else
