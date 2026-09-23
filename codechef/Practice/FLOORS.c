@@ -3,7 +3,7 @@
 // Language: C​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOORS
-// Solved on: 2026-09-23T11:29:21.935Z
+// Solved on: 2026-09-23T11:32:53.221Z
 
 #include <stdio.h>
 #include <stdlib.h>
