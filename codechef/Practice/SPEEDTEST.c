@@ -3,7 +3,7 @@
 // Language: C​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPEEDTEST
-// Solved on: 2026-09-23T12:01:14.744Z
+// Solved on: 2026-09-24T17:04:59.551Z
 
 #include <stdio.h>
 
