@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/cpp/LPCPAS06/problems/LCPPAS156
-// Solved on: 2026-09-25T17:17:00.684Z
+// Solved on: 2026-09-25T17:20:42.667Z
 
 #include <iostream>
 using namespace std;
@@ -20,10 +20,13 @@ int main() {
   int x,y;
   cin>>x>> y;
   
-  if(x>y)
+  if(x<y)
+  cout<< s2;
+  
+  else if(x>y)
   cout<< s1;
   
   else
-  cout<< s2;
+  cout<< "equal";
   
 }
