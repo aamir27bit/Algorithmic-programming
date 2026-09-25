@@ -1,0 +1,8 @@
+// Problem: PRACMCQ6
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/cpp/PCPP03/problems/PRACMCQ6
+// Solved on: 2026-09-25T18:04:08.781Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
